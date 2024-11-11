@@ -1,0 +1,15 @@
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\bin\Debug\RotaceCastic.exe.config
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\bin\Debug\RotaceCastic.exe
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\bin\Debug\RotaceCastic.pdb
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic.csproj.AssemblyReference.cache
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\MainWindow.g.cs
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\App.g.cs
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic_MarkupCompile.cache
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic_MarkupCompile.lref
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\MainWindow.baml
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic.g.resources
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic.Properties.Resources.resources
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic.csproj.GenerateResource.cache
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic.csproj.CoreCompileInputs.cache
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic.exe
+C:\Users\jihla\source\repos\RotaceCastic\RotaceCastic\obj\Debug\RotaceCastic.pdb
