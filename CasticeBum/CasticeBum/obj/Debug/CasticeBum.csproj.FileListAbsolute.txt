@@ -1,0 +1,15 @@
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\bin\Debug\CasticeBum.exe.config
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\bin\Debug\CasticeBum.exe
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\bin\Debug\CasticeBum.pdb
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum.csproj.AssemblyReference.cache
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\MainWindow.g.cs
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\App.g.cs
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum_MarkupCompile.cache
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum_MarkupCompile.lref
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\MainWindow.baml
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum.g.resources
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum.Properties.Resources.resources
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum.csproj.GenerateResource.cache
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum.csproj.CoreCompileInputs.cache
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum.exe
+C:\Users\jihla\source\repos\CasticeBum\CasticeBum\obj\Debug\CasticeBum.pdb
